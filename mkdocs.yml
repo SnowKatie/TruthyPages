@@ -30,10 +30,8 @@ nav:
 
 theme:
   name: material
-  favicon: fontawesome/solid/book
-
-  icon:
-    logo: fontawesome/solid/book
+  favicon: images/favicon.png
+  logo: images/logo.png
 
   features:
     - header.autohide

@@ -31,6 +31,16 @@
 ---
 !!! info "/help"
     This command will supply you with the latest Documentation link and a link to our Privacy Policy.
+
+---
+!!! info "/mail"
+
+    > ``reason`` is a **required** parameter and should show your intent for messaging the support team.
+
+    > ``message`` is a **required** parameter and should include your whole message.
+    
+    This command supplies you with a way to directly contact the support team without joining our support Discord directly.
+
 ---
 !!! failure "~~/nsfw~~ ~~``toggle``~~ *Removed*"
     

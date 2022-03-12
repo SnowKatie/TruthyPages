@@ -2,14 +2,16 @@
 hide:
   - toc
 ---
+# Truthybot.com
+![Image title](images/katie.png)
+
+---
 
 [![Image title](images/truthy.png){ align=right }](https://discord.com/oauth2/authorize?client_id=941836651037098037&permissions=2147486720&scope=bot%20applications.commands)
 
-# Welcome to Truthy Docs
+## **A personal thank you**
 
-## **Message from Katie**
-
-First of all, I'd like to **personally** thank you for choosing my modest **Truth or Dare** Discord bot and know it means a lot to me how many people have fun and connect together using what I've created here. With that being said, these are the official documents for the **Truthy** Discord bot, I'll do my best to keep these up to date and relevant.
+Our little Discord bot is now **officially verified** by Discord! Thanks to all of your support we have the cute little tick next to our Bot tag on the Discord client and in your servers. Truthy at the time of writing this is in over **300** servers and quickly on its way to one thousand. With over 30 servers a day and growing. I hope you all continue to grow with us and support us as you've already done amazingly!
 
 ## **What is Truthy Docs?**
 

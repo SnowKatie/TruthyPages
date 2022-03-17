@@ -63,3 +63,4 @@ All of these amazing people have in some way contributed towards our Truthy bot 
 !!! tip "TB-DaggyS#4718"
 !!! tip "Soup#5925"
 !!! tip "Shaderz#9495"
+!!! tip "Lovely DimitriS#7777"

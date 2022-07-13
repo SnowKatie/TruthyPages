@@ -26,6 +26,7 @@ nav:
   - Legal:
     - legal/terms.md
     - legal/privacy.md
+    - legal/wyr.md
   - Credits: credits.md
 
 theme:

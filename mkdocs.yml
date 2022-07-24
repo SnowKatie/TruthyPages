@@ -27,6 +27,8 @@ nav:
     - legal/terms.md
     - legal/privacy.md
     - legal/wyr.md
+  - Other:
+    - other/safeguarding.md
   - Credits: credits.md
 
 theme:

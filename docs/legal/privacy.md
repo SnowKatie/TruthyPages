@@ -10,7 +10,7 @@ Terms of Service for the following Application:
 
 Effective: **25th of February, 2022.**
 <br>
-Updated: **2nd of March, 2022.**
+Updated: **24th of July, 2022.**
 ---
 
 *Welcome, Truthy is a fun and enjoyable bot for anybody to use in their Discord servers. These terms set forth our legal obligations to eachother. They apply to your use of our service.*
@@ -22,13 +22,30 @@ Updated: **2nd of March, 2022.**
 
 ### **What data we store**
 !!! success "User Information"
-    When using game commands we may temporarily store your ``User ID`` which is a long number that unique identifies you. This is stored so our Truthy bot can access who is currently playing games to know whos turn it is.
+    Below is an **explicit** list of exactly what data we store and when we store it
+
+    ### ++slash++ **Stakes Game**
+    **The Stakes game stores:** ``UserId`` ``Name`` ``Score`` ``Choice``<br>
+    The only unique information the game stores is your **UserId** and **Name**. This is temporary and is cleared once the game is concluded or you request for it to be removed. We do not see any messages. The data of your **UserId** is required so we know who is playing, who's turn it is, and so we can limit the buttons to people in the game currently.
+
+    ### ++slash++ **Mail Command**
+    **The ``/Mail`` command stores:** ``UserId`` ``GuildId`` ``Message``<br>
+    On the **/mail** command we store some of your information such as your **UserId** and the current **Guild** you sent the message from so we can give you a response to your ModMail. We also have to store the **Message** of what you sent us so we can actually see what you've written in your mail.
+
+    ### ✅ **Thats it!**
+    Yep, that little! We don't store any other information. Please know this Privacy Page **will** update when new commands that require new information to be stored are released.
 
 !!! success "Discord Server Information"
-    We temporarily store a ``Guild ID`` when our Truthy bot is invited to a new server, this is a long unique ID that comes with each guild. This **DOES NOT** allow creation of invites or allow us or anybody else to find your guild.
+    Below is an **explicit** list of exactly what data we store and when we store it
+
+    ### ++slash++ **Mail Command**
+    **The ``/Mail`` command stores:** ``UserId`` ``GuildId`` ``Message``<br>
+    As mentioned in the *User Information* section, we store the GuildId temporarily for any guild the command is used in. This is so that our Moderators can send a response through the bot to the user who opened a ModMail. Without this information we would not be able to route the message. This information is deleted as soon as the response has been sent or the ticket has been closed.
 
 !!! failure "Message Content"
-    We do not store or view message content and in fact, Truthy is built entirely on ++slash++ commands and interactions to avoid having to parse any messages.
+    We **do not** and **never will** store any of your **messages** or their **content**. Truthy is built with the philosophy of minimal elevation. Which means we do a lot with little. Aka, we only ask for the **bare minimum** permissions. Truthy only actually requires **1 Permission** to run in the majority of Discords. And only asks currently for **3 Permissions**. 
+
+    Truthy uses ++slash++ commands and **cannot** see your messages.
 
 ### **How long we store it**
 !!! success "User Information"

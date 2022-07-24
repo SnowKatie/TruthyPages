@@ -15,13 +15,13 @@ Everyone has the right to feel **comfortable**, **respected** and **safe** when 
 *Do not speak in a manner or aim to make the person you're speaking to uncomfortable, respect boundries.*
 - Do **not** post or promote adult content<br>
 *Unless you are **explicitly** using the Adult version, everything on the ``Telephone`` command must be ``13+``.*
-- Do not **harass** anybody
+- Do not **harass** anybody<br>
 *Do not harass any users whilst using Truthy or using the ``Telephone`` command.*
-- Do not **Spam**
+- Do not **Spam**<br>
 *We do not tolerate spamming through the command.*
-- Protect everyones **Personal Information**
+- Protect everyones **Personal Information**<br>
 *Please refer to our [Privacy Policy](truthybot.com/legal/privacy/), do not share, leak or save anyones information.* 
-- Follow all of Discords [Terms of Service](https://discord.com/terms)
+- Follow all of Discords [Terms of Service](https://discord.com/terms)<br>
 *Also **ensure** you have read and understand all of Discord's TOS. Anything we've missed here will be there.* 
 
 ### **Actions we Take**

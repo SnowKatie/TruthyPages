@@ -1,17 +1,19 @@
 # Commands
 
-**Last Update:** 2nd of March, 2022.
+**Last Update:** 1st of August, 2022.
 <br>
 **Command Prefix:** ++slash++
 <br>
-**Total Commands:** ``5``
+**Total Commands:** ``7``
 
 ---
 !!! tip "/games"
 
     > Alias: **/g**
 
-    Games it the core command for accessing all of **Truthy's** core games. Inside of this command you can find games such as Truth or Dare, Never Have I Ever and Would you Rather.
+    The main command of **Truthy** to access all of our lovely game-modes such as Truth or Dare and Would you Rather, and many more to come in the future.
+
+    Full list of games: ``Truth or Dare`` ``Would you Rather`` ``Telephone`` ``Adult Stakes``
 !!! danger "This command has **NSFW** options!"
 
 ---
@@ -26,23 +28,23 @@
 !!! info "/8ball"
     A fairly simple command that generates a random response from a Magic 8Ball. You can ask it any question and you'll get a **Yes** or *No** type of response!
 ---
+!!! info "/feedback"
+    Send feedback directly to the developers. They may respond to you if required. This can be feedback, suggestions, complaints or just saying hello!
+---
+!!! info "/phone"
+    This command can only be used after you've already began a game with the ``/games`` command. It's used to talk through the telephone.
+---
 !!! info "/lastupdate"
     This command will give a **response** with information. The information included will be the date of the last update and the latest patch notes.
 ---
 !!! info "/help"
-    This command will supply you with the latest Documentation link and a link to our Privacy Policy.
-
----
-!!! info "/mail"
-
-    > ``reason`` is a **required** parameter and should show your intent for messaging the support team.
-
-    > ``message`` is a **required** parameter and should include your whole message.
-    
-    This command supplies you with a way to directly contact the support team without joining our support Discord directly.
+    Help will give you useful links such as the **Privacy Policy**, **Terms**, **Suport Discord** and more. As well as coaching you into using ``/games``.
 
 ---
 !!! failure "~~/nsfw~~ ~~``toggle``~~ *Removed*"
     
     *Command has been removed, you can now toggle NSFW in the channel options to enable NSFW features on Truthy.*
+!!! failure "~~/mail~~ *Removed*"
+    
+    *Command removed, replaced with ``/feedback``*
 

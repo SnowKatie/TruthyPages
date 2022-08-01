@@ -16,9 +16,9 @@ All of these amazing people have in some way contributed towards our Truthy bot 
         for everyone who's here with us.
         ```
 
-    === "Permissions"
+    === "Katie's Permissions"
 
-        !!! success "Bot Token Permissions"
+        !!! danger "Full Bot Access Token Permissions"
 
 !!! danger "Hood#1586 ``Administrator``"
 
@@ -30,26 +30,42 @@ All of these amazing people have in some way contributed towards our Truthy bot 
         owe a lot for all the aid he's given!
         ```
 
-    === "Permissions"
+    === "Hood's Permissions"
 
-        !!! success "Suggestion Managing"
-        !!! success "Ticket Managing"
-        !!! success "API Access"
+        !!! success "Report Decisions"
+        !!! success "Moderation Trust & Safety Responses"
+        !!! success "WYR API Access"
 
 !!! danger "Centauri#5413 ``Administrator``"
 
     === "Who is Centauri?"
 
         ```
-        An extremely friendly and supportive Administrator who has also been here since day one nad helped
+        An extremely friendly and supportive Administrator who has also been here since day one and helped
         along the development of Truthy, another person that the bot simply wouldn't be in the place its 
         currently in without!
         ```
 
-    === "Permissions"
+    === "Centauri's Permissions"
 
-        !!! success "Suggestion Managing"
-        !!! success "Ticket Managing"
+        !!! success "Report Decisions"
+        !!! success "Moderation Trust & Safety Responses"
+        !!! success "WYR API Access"
+
+!!! danger "Cookcooloo#9434 ``Moderator``"
+
+    === "Who is Cookcooloo?"
+
+        ```
+        One of our new friendly Trust & Safety team members, here to help out with moderating the bot and helping
+        out our lovely users!
+        ```
+
+    === "Cookcooloo's Permissions"
+
+        !!! success "Report Decisions"
+        !!! success "Moderation Trust & Safety Responses"
+        !!! success "WYR API Access"
 
 :heart: **Special Thanks** :heart: 
 

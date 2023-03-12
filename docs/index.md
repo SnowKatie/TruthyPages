@@ -9,7 +9,7 @@ hide:
   ``Made with ❤️``
   <br>
   <Typography variant="subheading" color="inherit" noWrap>
-    **Truthy** brings fun and exciting games to your social communities for all of your members to enjoy. With games ranging from **Truth or Dare** to **Would you Rather** and both ``Adult`` and ``Party`` modes available, you'll be sure to find games that fit your community just perfectly!
+    **Truthy** brings fun and exciting games to your social communities for all of your members to enjoy. With games ranging from **Truth or Dare** to **Would you Rather** with ``Party`` modes available, you'll be sure to find games that fit your community just perfectly!
   </Typography>
 
 [Invite Truthy to Server](https://discord.com/oauth2/authorize?client_id=941836651037098037&permissions=2147486720&scope=bot%20applications.commands){ .md-button .md-button--primary } [Join our Support Discord](https://discord.gg/KPmXsWZYHD){ .md-button .md-button--primary }

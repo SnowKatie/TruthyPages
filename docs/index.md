@@ -12,7 +12,7 @@ hide:
     **Truthy** brings fun and exciting games to your social communities for all of your members to enjoy. With games ranging from **Truth or Dare** to **Would you Rather** with ``Party`` modes available, you'll be sure to find games that fit your community just perfectly!
   </Typography>
 
-[Invite Truthy to Server](https://discord.com/oauth2/authorize?client_id=941836651037098037&permissions=2147486720&scope=bot%20applications.commands){ .md-button .md-button--primary } [Truthy Adult Addition](https://discord.com/api/oauth2/authorize?client_id=1082720226472378419&permissions=2147485696&scope=applications.commands%20bot){ .md-button .md-button } [Join our Support Discord](https://discord.gg/KPmXsWZYHD){ .md-button .md-button--primary }
+[Invite Truthy to Server](https://discord.com/oauth2/authorize?client_id=941836651037098037&permissions=2147486720&scope=bot%20applications.commands){ .md-button .md-button--primary } [Truthy Adult Addition](https://discord.com/api/oauth2/authorize?client_id=1082720226472378419&permissions=2147485696&scope=applications.commands%20bot){ .md-button .md-button } [Join our Support Discord](https://discord.gg/VtxaHmMnAY){ .md-button .md-button--primary }
 <br>
 <br>
 <hr>
